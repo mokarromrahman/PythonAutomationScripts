@@ -1,2 +1,2 @@
-# PythonAutomationTest
-Learning Python automation through this project.
+# PythonAutomationScrips
+Here I create and post python automation scripts that I use everyday.
