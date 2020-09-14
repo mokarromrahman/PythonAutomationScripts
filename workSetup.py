@@ -55,6 +55,7 @@ pyautogui.leftClick(2669, 19)  # new tab
 # sleep for 2 seconds and wait for the tab to open
 time.sleep(2)
 pyautogui.leftClick(2620, 448)  # asana tile
-
-
+# open discord and slack
+pyautogui.leftClick(688, 1062)  # discord
+pyautogui.leftClick(761, 1060)  # slack
 # printMousePosition()
