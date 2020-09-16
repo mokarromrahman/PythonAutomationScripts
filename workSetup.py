@@ -20,7 +20,7 @@ def printMousePosition():
 # go to the google chrome icon and right click it
 pyautogui.rightClick(132, 1059)
 # left click new window
-pyautogui.leftClick(170, 884)
+pyautogui.leftClick(170, 921)
 # wait 2 seconds for chrome to open
 time.sleep(2)
 # make sure the window is full screen
